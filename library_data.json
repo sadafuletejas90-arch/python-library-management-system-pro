@@ -1,0 +1,35 @@
+{
+    "books": {
+        "23e223": {
+            "title": "ff",
+            "author": "fasf",
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        "rewqaf": {
+            "title": "weaf",
+            "author": "ewda",
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        "333": {
+            "title": "tejas",
+            "author": "ttejas",
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        "1": {
+            "title": "35",
+            "author": "435",
+            "is_borrowed": false,
+            "borrowed_by": null
+        },
+        "2511105025": {
+            "title": "harry potter",
+            "author": "Tejas",
+            "is_borrowed": false,
+            "borrowed_by": null
+        }
+    },
+    "members": {}
+}
