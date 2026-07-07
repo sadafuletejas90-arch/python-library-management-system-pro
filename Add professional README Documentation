@@ -1,0 +1,104 @@
+# 📚 Library Management System Pro
+
+A professional command-line Library Management System built with Python. This project allows librarians to manage books and members, issue and return books, and store data permanently using JSON files.
+
+---
+
+## 🚀 Features
+
+- 📖 Add New Books
+- 👤 Register New Members
+- 📚 View All Books
+- 🔍 Search Books *(Future Update)*
+- ✏️ Update Book Details *(Future Update)*
+- 🗑️ Delete Books *(Future Update)*
+- 📤 Issue Books
+- 📥 Return Books
+- 💾 Automatic Data Storage using JSON
+- ⚠️ Error Handling
+- 🖥️ User-Friendly Command-Line Interface
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Object-Oriented Programming (OOP)
+- JSON
+- File Handling
+- Exception Handling
+
+---
+
+## 📂 Project Structure
+
+```
+python-library-management-system-pro/
+│
+├── library_management_system.py
+├── library_data.json
+├── README.md
+├── LICENSE
+└── screenshot.png
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/yourusername/python-library-management-system-pro.git
+```
+
+2. Open the project folder.
+
+3. Run the application.
+
+```bash
+python library_management_system.py
+```
+
+---
+
+## 📸 Example Menu
+
+```
+=== Library Menu ===
+
+1. Add Book
+2. Add Member
+3. List All Books
+4. Borrow Book
+5. Return Book
+6. Exit
+```
+
+---
+
+## 🎯 Future Improvements
+
+- Search Books
+- Update Book Information
+- Delete Books
+- Book Categories
+- Borrow History
+- Fine Management
+- Login System
+- Graphical User Interface (Tkinter)
+- SQLite Database Support
+
+---
+
+## 👨‍💻 Author
+
+**Tejas Sadafule**
+
+GitHub: https://github.com/yourusername
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
